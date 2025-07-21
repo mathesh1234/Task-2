@@ -15,4 +15,4 @@ Spring Web
 Thymeleaf (optional HTML output)
 Maven
 Output:
-
+<img width="1459" height="712" alt="Image" src="https://github.com/user-attachments/assets/ee736b88-ba7a-4e15-a86a-b3498bb1c145" />
