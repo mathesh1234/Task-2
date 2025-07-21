@@ -15,3 +15,4 @@ Spring Web
 Thymeleaf (optional HTML output)
 Maven
 Output:
+
